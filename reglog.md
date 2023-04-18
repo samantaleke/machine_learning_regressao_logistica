@@ -4,6 +4,7 @@
 
 Objetivo: Depressão, análise dos sintomas e fatores que favorecem sintomas depressivos
 
-Utilizado a base de dados do IBGE-PNS-2019 (PNS-Pesquisa Nacional de Saúde).
+Projeto pessoal para entender um pouco o grupo de pessoas que foram diagnosticas com depressão, nesse estudo foi utilizada a base de dados do IBGE-PNS2019, para que o estudo fosse da população brasileira.
 
-Existem 
+
+
